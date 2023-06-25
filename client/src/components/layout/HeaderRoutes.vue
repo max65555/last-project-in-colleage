@@ -1,5 +1,5 @@
 <template>
-  <div class=" bg-gray-50 w-full py-2">
+  <div class="w-full py-2">
     <div class="container ">
       <div>
         <img
