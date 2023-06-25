@@ -13,4 +13,5 @@ export const routes = [
     { path: "/License", component: ListProduction, label: "License" },
     { path: "/gear", component: ListProduction, label: "Gear" },
     { path: "/switch", component: ListProduction, label: "Switch" },
+    
 ]
