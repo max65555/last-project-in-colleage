@@ -22,6 +22,7 @@
           </router-link>
         </div>
       </div>
+      <HeaderRouter />
     </div>
   </div>
   <div class="main-container">
@@ -30,8 +31,8 @@
 </template>
 
 <script setup lang="ts">
+// import HeaderRouter from '@/other/HeaderSearch';
 import { routes } from '@/router/routes';
-
 </script>
 
 <style scoped>
